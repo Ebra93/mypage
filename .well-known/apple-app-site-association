@@ -6,13 +6,20 @@
         "appIDs": [
           "7X62NDWGF7.de.enervision.app.enimobile"
         ],
+        "paths": [
+          "*"
+        ],
         "components": [
           {
-            "/": "/*",
-            "comment": "test"
+            "/": "/*"
           }
         ]
       }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "7X62NDWGF7.de.enervision.app.enimobile"
     ]
   }
 }
